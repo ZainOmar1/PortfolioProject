@@ -1,3 +1,4 @@
+-- Registered Covid Data up to early 2022
 Select *
 from PortfolioProject..[Covid Deaths]
 
